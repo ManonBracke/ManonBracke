@@ -1,8 +1,5 @@
 # Hi there 👋
 
-<!--
-**ManonBracke/ManonBracke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello ! My name is Manon Bracke . I'm a junior coder at BeCode and a graphic designer. Here are some of the websites I've made during my training.
 
 ## HTML / CSS 
@@ -19,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: manon.bracke@hotmail.com
 
 - ⚡ Fun fact: I love penguins too much :penguin:
--->
+
