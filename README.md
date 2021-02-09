@@ -2,7 +2,7 @@
 
 Hello ! My name is Manon Bracke . I'm a junior coder at BeCode and a graphic designer. Here are some of the websites I've made during my training.
 
-## Project
+## Projects
 
 - [Tim Berners Lee](https://manonbracke.github.io/tim-berners-lee/) 
 - [ZorZor](https://manonbracke.github.io/Zozor/) 
