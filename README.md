@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello ! My name is Manon Bracke . I'm a junior coder at IESPCF Namur and a graphic designer. Here are some of the websites I've made during my training.
+Hello ! My name is Manon Bracke . I'm a junior coder and a graphic designer. Here are some of the websites I've made during my training.
 
 ## Projects
 
